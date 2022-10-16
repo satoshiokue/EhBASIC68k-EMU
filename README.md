@@ -1,4 +1,4 @@
-# EhBASIC68K for EMU
+# EhBASIC68k for EMU
 Enhanced 68k BASIC Version 3.54
 
 ## Assembler  
