@@ -1,5 +1,5 @@
 # EhBASIC68k for EMU
-Enhanced 68k BASIC Version 3.54
+Enhanced 68k BASIC Version 3.54 for MEZ68008
 
 ## Assembler  
 Macro Assembler 1.42 Beta [Bld 229]
