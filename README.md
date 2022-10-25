@@ -13,6 +13,13 @@ Macro Assembler 1.42 Beta [Bld 229]
 0xE001   ACIAC
 ```
 
+```
+basic68k.inc
+
+; Use these two lines when running from ROM
+ram_addr	EQU	$08000		; RAM start address
+ram_size	EQU	$02000		; RAM size
+```
 ------------------------------------------------------------------------
 
  EhBASIC68
